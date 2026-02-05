@@ -1,3 +1,6 @@
+<div align="center">
+  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</div>
 
 # Hi there 👋 I'm Steven (Hải Đăng)
 
@@ -37,9 +40,6 @@ I enjoy working in research-oriented and collaborative environments, where I can
 - **Optimal Control for Glucose–Insulin Dynamics** – Mathematical modeling and optimization  
 
 ---
-<div align="center">
-  <img align=""center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-</div>
 
 
 ## 📫 Connect with Me
