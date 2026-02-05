@@ -52,8 +52,6 @@ I enjoy working in research-oriented and collaborative environments, where I can
 
 
 ## 📫 Connect with Me
-- GitHub: [@StevenMup2004](https://github.com/StevenMup2004)
-- LinkedIn: https://www.linkedin.com/in/haidang07092004/
 - Email: dangvu.cspk53@gmail.com
 
 ---
