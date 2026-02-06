@@ -24,10 +24,10 @@ and real-world temporal data.
 
 ## Technical Interests
 - AI for Software Engineering 
-- LLL4Code
-- LLM Security and Robustness 
+- LLL4Code & LLM Security
 - Secure Code Generation  
-- Extreme Multi-label Learning    
+- Extreme Multi-label Learning
+- Mathematical modeling 
 
 ## Technical Skills
 - **Languages:** Python, C/C++, Java, JavaScript, SQL  
