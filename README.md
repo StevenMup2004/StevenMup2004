@@ -22,7 +22,7 @@ My work focuses on code generation, code summarization, and security aspects of 
 to mathematical modeling and data-driven analysis for healthcare and time-series forecasting on business
 and real-world temporal data.
 
-## Research & Technical Interests
+## Technical Interests
 - AI for Software Engineering 
 - LLL4Code
 - LLM Security and Robustness 
