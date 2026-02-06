@@ -30,10 +30,10 @@ and real-world temporal data.
 - Mathematical modeling 
 
 ## Technical Skills
-- **Languages:** Python, C/C++, Java, JavaScript, SQL  
-- **ML / AI:** PyTorch, TensorFlow, HuggingFace Transformers  
-- **Data & NLP:** NumPy, Pandas, Scikit-learn  
-- **Tools:** Git, Docker, MySQL, Matplotlib  
+- **Programming Languages:** Python, C/C++, Java, SQL
+- **Frameworks:** PyTorch, TensorFlow, LangChain, LangGraph
+- **Libraries:** SentenceTransformers, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, spaCy, FAISS
+- **Tools:** Semgrep, CodeQL, Git
 
 ## Selected Projects
 - **LLM-Secure Code Generation** – Security-aware code generation and vulnerability mitigation  
