@@ -18,14 +18,16 @@
 🤖 Working at the intersection of AI, Software Engineering, and Security
 
 ## About Me
-I work on applying machine learning and large language models to software engineering problems, with a focus on code generation, code completion, and improving the security and reliability of LLM-based systems. I enjoy combining theoretical understanding with practical experimentation to build impactful AI-driven solutions.
+My work focuses on code generation, code summarization, and security aspects of LLM-based systems, and extends
+to mathematical modeling and data-driven analysis for healthcare and time-series forecasting on business
+and real-world temporal data.
 
 ## Research & Technical Interests
-- Large Language Models for Code  
-- Secure and Reliable Code Generation  
-- Extreme Multi-label Learning  
-- AI for Software Engineering  
-- LLM Security and Robustness  
+- AI for Software Engineering 
+- LLL4Code
+- LLM Security and Robustness 
+- Secure Code Generation  
+- Extreme Multi-label Learning    
 
 ## Technical Skills
 - **Languages:** Python, C/C++, Java, JavaScript, SQL  
