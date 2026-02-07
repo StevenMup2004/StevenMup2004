@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Final-year Information Technology undergraduate** at **Hanoi University of Science and Technology (HUST)** and a Research Assistant at the **Intelligent Software Engineering Lab (ISEL)**, BKAI Center.
+I am a **Final-year Information Technology undergraduate** at **Hanoi University of Science and Technology (HUST)** and a Research Assistant at the **Intelligent Software Engineering Lab (ISE)**, BKAI Center.
 
 My work applies **Natural Language Processing (NLP)** to practical software engineering problems. I focus on ensuring the security and reliability of **Large Language Models (LLMs)** in code generation, summarization, and vulnerability detection tasks.
 
