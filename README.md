@@ -1,5 +1,4 @@
-<div align="center">
-  
+<div align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=R%26D+at+BKAI+Lab;Building+Secure+LLMs;HUST+Student" alt="Typing SVG" />
   </a>
@@ -15,14 +14,13 @@
   <a href="https://github.com/StevenMup2004">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
-
 </div>
 
----
+<hr style="border: none; border-top: 1px solid #e5e7eb;" />
 
 ### 👨‍💻 About Me
 
-I am a fourth-year **Information Technology** student at **Hanoi University of Science and Technology (HUST)** and a Research Assistant at **BKAI – Intelligent Software Engineering Lab**. 
+I am a fourth-year **Information Technology** student at **Hanoi University of Science and Technology (HUST)** and a Research Assistant at **BKAI – Intelligent Software Engineering Lab**.  
 
 My work lies at the intersection of **Artificial Intelligence**, **Software Engineering**, and **Cybersecurity**. I am passionate about leveraging Large Language Models (LLMs) to build secure coding assistants and analyzing vulnerabilities in AI-generated code.
 
@@ -30,7 +28,7 @@ My work lies at the intersection of **Artificial Intelligence**, **Software Engi
 - 🔬 Research interests: **AI for SE**, **LLM Security**, **Extreme Multi-label Learning**
 - 📈 Background in **Mathematical Modeling** for healthcare and business forecasting
 
----
+<hr style="border: none; border-top: 1px solid #e5e7eb;" />
 
 ### 🛠️ Tech Stack
 
@@ -41,7 +39,7 @@ My work lies at the intersection of **Artificial Intelligence**, **Software Engi
 | **LLM & NLP** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![SpaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=flat-square&logo=meta&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CodeQL](https://img.shields.io/badge/CodeQL-gray?style=flat-square&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white) |
 
----
+<hr style="border: none; border-top: 1px solid #e5e7eb;" />
 
 ### 🏆 Selected Projects
 
@@ -50,5 +48,3 @@ My work lies at the intersection of **Artificial Intelligence**, **Software Engi
 | **🛡️ LLM-Secure Code Generation** | Security-aware code generation and vulnerability mitigation using prompt engineering and fine-tuning |
 | **🏷️ GitHub Topic Recommendation** | Extreme Multi-label Learning with ZestXML and LLM-assisted supervision for repository tagging |
 | **🩸 Glucose–Insulin Dynamics** | Optimal Control mathematical modeling and data-driven analysis for healthcare applications |
-
----
