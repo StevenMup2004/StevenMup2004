@@ -15,25 +15,25 @@
 
 🎓 Fourth-year Information Technology student at Hanoi University of Science and Technology (HUST)  
 🔬 Research Assistant at BKAI – Intelligent Software Engineering Lab  
-🤖 Working at the intersection of AI, Software Engineering, and Security
+🤖 Working at the intersection of AI, Software Engineering, and Security  
 
 ## About Me
-My work focuses on code generation, code summarization, and security aspects of LLM-based systems, and extends
-to mathematical modeling and data-driven analysis for healthcare and time-series forecasting on business
-and real-world temporal data.
+My work focuses on code generation, code summarization, and security analysis using Large
+Language Models (LLMs). I also have experience in mathematical modeling and data-driven analysis
+for healthcare applications, as well as time-series forecasting for business data.
 
 ## Technical Interests
-- AI for Software Engineering 
-- LLL4Code & LLM Security
+- AI for Software Engineering  
+- LLMs for Code & LLM Security  
 - Secure Code Generation  
-- Extreme Multi-label Learning
-- Mathematical modeling 
+- Extreme Multi-label Learning  
+- Mathematical Modeling  
 
 ## Technical Skills
-- **Programming Languages:** Python, C/C++, Java, SQL
-- **Frameworks:** PyTorch, TensorFlow, LangChain, LangGraph
-- **Libraries:** SentenceTransformers, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, spaCy, FAISS
-- **Tools:** Semgrep, CodeQL, Git
+- **Programming Languages:** Python, C/C++, Java, SQL  
+- **Frameworks:** PyTorch, TensorFlow, LangChain, LangGraph  
+- **Libraries:** SentenceTransformers, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, spaCy, FAISS  
+- **Tools:** Semgrep, CodeQL, Git  
 
 ## Selected Projects
 - **LLM-Secure Code Generation** – Security-aware code generation and vulnerability mitigation  
@@ -42,6 +42,6 @@ and real-world temporal data.
 
 ## Connect
 📫 Email: dangvu.cspk53@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/haidang07092004/
+🔗 LinkedIn: https://www.linkedin.com/in/haidang07092004/  
 
 ⭐ Feel free to explore my repositories or reach out if you're interested in collaboration!
