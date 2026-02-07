@@ -50,23 +50,10 @@ My work lies at the intersection of **Artificial Intelligence**, **Software Engi
 
 ### 🏆 Selected Projects
 
-| Project | Description | Stack |
+| Project | Description |
 | :--- | :--- | :--- |
-| **🛡️ LLM-Secure Code Generation** | Security-aware code generation and vulnerability mitigation using prompt engineering and fine-tuning. | `LLMs` `Python` `CodeQL` |
-| **🏷️ GitHub Topic Recommendation** | Extreme Multi-label Learning with ZestXML and LLM-assisted supervision for repository tagging. | `XML` `Python` `NLP` |
-| **🩸 Glucose–Insulin Dynamics** | Optimal Control mathematical modeling and data-driven analysis for healthcare applications. | `Matlab/Python` `Math` |
-
+| **🛡️ LLM-Secure Code Generation** | Security-aware code generation and vulnerability mitigation using prompt engineering and fine-tuning. | 
+| **🏷️ GitHub Topic Recommendation** | Extreme Multi-label Learning with ZestXML and LLM-assisted supervision for repository tagging. | 
+| **🩸 Glucose–Insulin Dynamics** | Optimal Control mathematical modeling and data-driven analysis for healthcare applications. | 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StevenMup2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenMup2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph"  />
-</div>
-
-<br/>
-
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=StevenMup2004&style=flat-square&color=blue&label=Profile+Views" alt="profile views" />
-</div>
