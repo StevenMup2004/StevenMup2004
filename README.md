@@ -45,6 +45,8 @@ My work lies at the intersection of **Artificial Intelligence**, **Software Engi
 
 | Project | Description |
 |:---|:---|
-| **🛡️ LLM-Secure Code Generation** | Security-aware code generation and vulnerability mitigation using prompt engineering and fine-tuning |
-| **🏷️ GitHub Topic Recommendation** | Extreme Multi-label Learning with ZestXML and LLM-assisted supervision for repository tagging |
-| **🩸 Glucose–Insulin Dynamics** | Optimal Control mathematical modeling and data-driven analysis for healthcare applications |
+| **🛡️ LLM-Secure Code Generation** | integrated **RAG** with security guidelines & post-generation validation, improving security rate by **25.34%** |
+| **🏷️ GitHub Topic Recommendation** | Extreme Multi-label Learning with **ZestXML** & LLM-assisted summarization, achieving **22.22%** gain in F1-score |
+| **📈 Forecasting Business Performance** | Time-series forecasting for revenue trends using **SARIMA**, **LSTM**, and **Transformer-based** models |
+| **💬 Vietnamese Sentiment Analysis** | Aspect-based Sentiment Analysis system utilizing **PhoBERT** multi-task learning & back-translation augmentation |
+| **🩸 Glucose–Insulin Dynamics** | Mathematical modeling using **ODEs** & **Optimal Control** (Pontryagin's principle) for insulin pump therapy |
