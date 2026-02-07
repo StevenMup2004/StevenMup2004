@@ -1,12 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Vu%20Hai%20Dang&fontSize=70&fontColor=ffffff&desc=AI%20Researcher%20%7C%20Software%20Engineer%20%7C%20Security%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
-</div>
-
-<div align="center">
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=R%26D+at+BKAI+Lab;Building+Secure+LLMs;HUST+Student" alt="Typing SVG" />
   </a>
+
 
   <br/>
   
