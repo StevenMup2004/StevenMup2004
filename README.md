@@ -1,10 +1,10 @@
 <div align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=R%26D+at+BKAI+Lab;Building+Secure+LLMs;HUST+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Final-Year+IT+Student+at+HUST;Research+Assistant+at+ISEL+Lab;Secure+Code+Generation+%26+NLP;Building+Safe+AI+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
-  
+   
   <a href="https://www.linkedin.com/in/haidang07092004/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
@@ -20,13 +20,13 @@
 
 ### 👨‍💻 About Me
 
-I am a fourth-year **Information Technology** student at **Hanoi University of Science and Technology (HUST)** and a Research Assistant at **BKAI – Intelligent Software Engineering Lab**.  
+I am a **Final-year Information Technology undergraduate** at **Hanoi University of Science and Technology (HUST)** and a Research Assistant at the **Intelligent Software Engineering Lab (ISEL)**, BKAI Center.
 
-My work lies at the intersection of **Artificial Intelligence**, **Software Engineering**, and **Cybersecurity**. I am passionate about leveraging Large Language Models (LLMs) to build secure coding assistants and analyzing vulnerabilities in AI-generated code.
+My work applies **Natural Language Processing (NLP)** to practical software engineering problems. I focus on ensuring the security and reliability of **Large Language Models (LLMs)** in code generation, summarization, and vulnerability detection tasks.
 
-- 🔭 I’m currently working on **Secure Code Generation & LLM Memorization**
-- 🔬 Research interests: **AI for SE**, **LLM Security**, **Extreme Multi-label Learning**
-- 📈 Background in **Mathematical Modeling** for healthcare and business forecasting
+- 🔭 I’m currently working on **Secure Code Generation & LLM Memorization** mechanisms.
+- 🔬 Research interests: **AI for Software Engineering**, **LLM Security**, **Code Summarization**, and **Extreme Multi-label Learning**.
+- 📈 Background in **Mathematical Modeling** for healthcare (Optimal Control) and **Time-series Forecasting** for business data.
 
 <hr style="border: none; border-top: 1px solid #e5e7eb;" />
 
@@ -45,8 +45,8 @@ My work lies at the intersection of **Artificial Intelligence**, **Software Engi
 
 | Project | Description |
 |:---|:---|
-| **🛡️ LLM-Secure Code Generation** | integrated **RAG** with security guidelines & post-generation validation, improving security rate by **25.34%** |
+| **🛡️ LLM-Secure Code Generation** | Integrated **RAG** with security guidelines & post-generation validation, improving security rate by **25.34%** |
 | **🏷️ GitHub Topic Recommendation** | Extreme Multi-label Learning with **ZestXML** & LLM-assisted summarization, achieving **22.22%** gain in F1-score |
 | **📈 Forecasting Business Performance** | Time-series forecasting for revenue trends using **SARIMA**, **LSTM**, and **Transformer-based** models |
 | **💬 Vietnamese Sentiment Analysis** | Aspect-based Sentiment Analysis system utilizing **PhoBERT** multi-task learning & back-translation augmentation |
-| **🩸 Glucose–Insulin Dynamics** | Mathematical modeling using **ODEs** & **Optimal Control** (Pontryagin's principle) for insulin pump therapy |
+| **🩸 Glucose Control Optimization for Insulin Pump Therapy** | Mathematical modeling using **ODEs** & **Optimal Control** (Pontryagin's principle) for insulin pump therapy |
