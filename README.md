@@ -67,7 +67,7 @@ My work applies **Natural Language Processing (NLP)** to practical software engi
 
 | Project | Role & Impact |
 |:---|:---|
-| [**🛡️ LLM-Secure Code Generation**](https://github.com/StevenMup2004/Code-Gen) <br>*(May 2025 - Present)* | • Analyzed real-world vulnerabilities in LLM-generated code.<br>• Integrated **RAG** with trusted security guidelines, alongside post-generation validation.<br>• Improved security rate by **25.24%**. |
+| [**🛡️ LLM-Secure Code Generation**](https://github.com/StevenMup2004/Code-Gen) <br>*(May 2025 - Present - Still update)* | • Analyzed real-world vulnerabilities in LLM-generated code.<br>• Integrated **RAG** with trusted security guidelines, alongside post-generation validation.<br>• Improved security rate by **25.24%**. |
 | [**🏷️ GitHub Topic Recommendation**](https://github.com/StevenMup2004/Github-Topic-Recommendation) <br>*(Sep 2024 - Apr 2025)* | • Developed multi-label classification using **ZestXML**.<br>• Leveraged LLMs for README summarization. |
 | [**📈 Forecasting Business Performance**](https://github.com/StevenMup2004/Forecasting-Business-Performance-DataFlow2025) <br>*(Feb 2025 - Mar 2025)* | • Built time-series models (**SARIMA, LSTM**) and Tranformer-based model to forecast revenue.<br>• **Top 10 DataFlow Competition**. |
 | [**💬 Aspect-based Sentiment Analysis for Vietnamese**](https://github.com/StevenMup2004/Aspect-based-Sentiment-Analysis-for-Vietnamese) <br>*(Sep 2024 - Dec 2024)* | • Built aspect-based sentiment analysis using **PhoBERT**.<br>• Applied back-translation data augmentation. |
