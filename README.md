@@ -79,6 +79,6 @@ My work applies **Natural Language Processing (NLP)** to practical software engi
 
 * **Certificate "Building RAG Agents with LLMs"** - NVIDIA (Dec 2025)
 * **HUST Academic Excellence Award 2024-2025** - Awarded "Excellent Student" title (Nov 2025)
-* **HUST Academic Encouragement Scholarship** - Merit-based scholarship (Apr 2024, Nov 2025)
+* **HUST Academic Encouragement Scholarship** - Merit-based scholarship (Apr 2025, Nov 2025)
 * **Top 10 DataFlow Competition** - Awarded for data analysis & predictive modeling (Mar 2025)
 * **First Prize - Mathematical Modeling Competition** - Glucose control for insulin pump therapy (Sep 2024)
