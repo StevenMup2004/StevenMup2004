@@ -47,7 +47,7 @@ My work applies **Natural Language Processing (NLP)** to practical software engi
 * Mentored junior lab members in literature review and experimental methodologies.
 
 #### **VinBigdata**
-*NLP Teaching Assistant | Oct 2025 - Nov 2025*
+*NLP Teaching Assistant | Sep 2025 - Dec 2025*
 * Supported NLP course delivery, prepared instructional materials, and assisted with lectures.
 * Evaluated lab assignments, examinations, and provided detailed feedback to students.
 
