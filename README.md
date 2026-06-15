@@ -24,8 +24,8 @@ I am a **Final-year Information Technology undergraduate** at **Hanoi University
 
 My work applies **Natural Language Processing (NLP)** to practical software engineering problems. I focus on ensuring the security and reliability of **Large Language Models (LLMs)** in code generation, summarization, vulnerability detection and guardrail.
 
-- 🔭 **Current Focus:** Secure Code Generation, Code Summarization, Security, Guardrail in LLMs.
-- 🔬 **Research Interests:** AI for Software Engineering, LLM Security (Vulnerability Detection, Poisoning Attacks), and Extreme Multi-label Learning.
+- 🔭 **Current Focus:** Secure Code Generation, Security, Guardrail in LLMs.
+- 🔬 **Research Interests:** AI for Software Engineering, LLM Security (Vulnerability Detection, Poisoning Attacks).
 - 📈 **Background:** Mathematical Modeling (Optimal Control/ODEs) and Time-series Forecasting.
 - 🎓 **CPA:** 3.71/4.0 | **English:** IELTS 6.5.
 
@@ -43,8 +43,7 @@ My work applies **Natural Language Processing (NLP)** to practical software engi
 #### **Intelligent Software Engineering Lab (BKAI Center)**
 *Research Assistant | Oct 2022 - Present*
 * Conducted research on code generation, completion, summarization, and repository topic recommendation.
-* Analyzed security vulnerabilities in LLM-generated code and developed mitigation strategies.
-* Mentored junior lab members in literature review and experimental methodologies.
+* Analyzed security vulnerabilities (CWE) in LLM-generated code and developed mitigation strategies.
 
 #### **VinBigdata**
 *NLP Teaching Assistant | Sep 2025 - Dec 2025*
