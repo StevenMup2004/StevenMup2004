@@ -72,6 +72,13 @@ My work applies **Natural Language Processing (NLP)** to practical software engi
 | [**💬 Aspect-based Sentiment Analysis for Vietnamese**](https://github.com/StevenMup2004/Aspect-based-Sentiment-Analysis-for-Vietnamese) <br>*(Sep 2024 - Dec 2024)* | • Built aspect-based sentiment analysis using **PhoBERT**.<br>• Applied back-translation data augmentation. |
 | [**🩸 Glucose Control Optimization for Insulin Pump Therapy**](https://github.com/khoavpt/mmc-2024) <br>*(Jul 2024 - Sep 2024)* | • Modeled glucose-insulin dynamics using **ODEs**.<br>• Optimized insulin delivery using **Pontryagin's principle**.<br>• **First Prize** Mathematical Modeling Competition. |
 
+### 📝 Publications
+
+* **Towards Knowledge Alignment in Code LLMs: Contrastive Unlearning for Evolving APIs**  
+  *NIER Track, ICSME 2026*  
+  🔗 https://conf.researchr.org/details/icsme-2026/icsme-2026-nier/23/Towards-Knowledge-Alignment-in-Code-LLMs-Contrastive-Unlearning-for-Evolving-APIs
+  
+
 <div align="center"><hr style="border: none; border-top: 1px solid #e5e7eb; width: 70%;" /></div>
 
 ### 🥇 Honors & Certificates
