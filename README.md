@@ -26,8 +26,7 @@ My work applies **Natural Language Processing (NLP)** to practical software engi
 
 - 🔭 **Current Focus:** Secure Code Generation, Security, Guardrail in LLMs and Data Science.
 - 🔬 **Research Interests:** AI for Software Engineering, LLM Security (Vulnerability Detection, Poisoning Attacks).
-- 📈 **Background:** Mathematical Modeling (Optimal Control/ODEs) and Time-series Forecasting.
-- 🎓 **CPA:** 3.71/4.0 | **English:** IELTS 6.5.
+- 🎓 **CPA:** 3.72/4.0 | **English:** IELTS 6.5.
 
 <div align="center"><hr style="border: none; border-top: 1px solid #e5e7eb; width: 70%;" /></div>
 
