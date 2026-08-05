@@ -80,11 +80,11 @@ My work applies **Natural Language Processing (NLP)** to practical software engi
 
 * **Towards Knowledge Alignment in Code LLMs: Contrastive Unlearning for Evolving APIs**
   *NIER Track, IEEE International Conference on Software Maintenance and Evolution — ICSME 2026*
-  [View publication](https://conf.researchr.org/details/icsme-2026/icsme-2026-nier/23/Towards-Knowledge-Alignment-in-Code-LLMs-Contrastive-Unlearning-for-Evolving-APIs)
+  [View](https://conf.researchr.org/details/icsme-2026/icsme-2026-nier/23/Towards-Knowledge-Alignment-in-Code-LLMs-Contrastive-Unlearning-for-Evolving-APIs)
 
 * **Walking on Thin Ice? Defending RAG-based Code Recommender Systems Against Poisoning Attacks**
   *Journal of Systems and Software*
-  [View on ResearchGate](https://www.researchgate.net/publication/400579711_Walking_on_Thin_Ice_Defending_RAG-based_Code_Recommender_Systems_Against_Poisoning_Attacks)
+  [View](https://www.researchgate.net/publication/400579711_Walking_on_Thin_Ice_Defending_RAG-based_Code_Recommender_Systems_Against_Poisoning_Attacks)
   
 
 <div align="center"><hr style="border: none; border-top: 1px solid #e5e7eb; width: 70%;" /></div>
