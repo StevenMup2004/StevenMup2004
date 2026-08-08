@@ -84,7 +84,7 @@ My work applies **Natural Language Processing (NLP)** to practical software engi
 
 * **Walking on Thin Ice? Defending RAG-based Code Recommender Systems Against Poisoning Attacks**
   *- Journal of Systems and Software*
-  [View](https://www.researchgate.net/publication/400579711_Walking_on_Thin_Ice_Defending_RAG-based_Code_Recommender_Systems_Against_Poisoning_Attacks)
+  [View](https://www.sciencedirect.com/science/article/pii/S0164121226002979)
   
 
 <div align="center"><hr style="border: none; border-top: 1px solid #e5e7eb; width: 70%;" /></div>
